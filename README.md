@@ -10,4 +10,4 @@
 
 🧠Conhencimento em: Sistema operacional windows 10, 
 Microsoft Office 2016 (Excel, Word, PowerPoint), 
-Design gráfico, Atendimento ao criente e Técnico de Vendas
+Design gráfico, Atendimento ao cliente e Técnico de Vendas
