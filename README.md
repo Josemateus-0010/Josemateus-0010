@@ -1,16 +1,13 @@
-## Hi there 👋
+🖐 olá, sou José Mateus
 
-<!--
-**Josemateus-0010/Josemateus-0010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓sou estudante de Análise e Desenvolvimento de Sistemas na Cruzeiro do Sul.
 
-Here are some ideas to get you started:
+📚Atualmente estudando disign profissional.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+❤ Apaixonado por conhecimento tecnológico e em fase de aprendizado, 
+
+💡tenho interesse em desenvolvimento web e banco de dados.
+
+🧠Conhencimento em: Sistema operacional windows 10, 
+Microsoft Office 2016 (Excel, Word, PowerPoint), 
+Design gráfico, Atendimento ao criente e Técnico de Vendas
